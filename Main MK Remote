@@ -1,0 +1,5 @@
+git remote add origin https://github.com/JernBgj/MK-Remote.git
+git branch -M main
+git push -u origin main
+
+Add line /dodaj line here
